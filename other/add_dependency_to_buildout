@@ -1,0 +1,4 @@
+Adding a dependency to buildout:
+
+1.Add dependency to project repository to file setup.py
+2.Add dependency version to buildout repository to file version.cfg
